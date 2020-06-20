@@ -4,7 +4,52 @@ This respository contains some of my PPT for reports. Most of these slides are d
 
 ## Example
 
+### Web Development
+
+![环游梦-小学期报告_page-0049](Web-Development/img/环游梦-小学期报告_page-0049.jpg)
+
+![环游梦-小学期报告_page-0050](Web-Development/img/环游梦-小学期报告_page-0050.jpg)
+
+![环游梦-小学期报告_page-0001](Web-Development/img/环游梦-小学期报告_page-0001.jpg)
+
+![环游梦-小学期报告_page-0004](Web-Development/img/环游梦-小学期报告_page-0004.jpg)
+
+![环游梦-小学期报告_page-0023](Web-Development/img/环游梦-小学期报告_page-0023.jpg)
+
+![环游梦-小学期报告_page-0008](Web-Development/img/环游梦-小学期报告_page-0008.jpg)
+
+![环游梦-小学期报告_page-0029](Web-Development/img/环游梦-小学期报告_page-0029.jpg)
+
+![环游梦-小学期报告_page-0030](Web-Development/img/环游梦-小学期报告_page-0030.jpg)
+
+![环游梦-小学期报告_page-0035](Web-Development/img/环游梦-小学期报告_page-0035.jpg)
+
+![环游梦-小学期报告_page-0034](Web-Development/img/环游梦-小学期报告_page-0034.jpg)
+
+![环游梦-小学期报告_page-0033](Web-Development/img/环游梦-小学期报告_page-0033.jpg)
 
 
+
+### Culture Shock
+
+![Culture-Shock_page-0004](Culture-Shock/img/Culture-Shock_page-0004.jpg)
+
+![Culture-Shock_page-0005](Culture-Shock/img/Culture-Shock_page-0005.jpg)
+
+![Culture-Shock_page-0006](Culture-Shock/img/Culture-Shock_page-0006.jpg)
+
+![Culture-Shock_page-0010](Culture-Shock/img/Culture-Shock_page-0010.jpg)
+
+![Culture-Shock_page-0011](Culture-Shock/img/Culture-Shock_page-0011.jpg)
+
+### Introduction to DLL
+
+![DLL-介绍_page-0001](DLL-Intro/img/DLL-介绍_page-0001.jpg)
+
+![DLL-介绍_page-0010](DLL-Intro/img/DLL-介绍_page-0010.jpg)
+
+![DLL-介绍_page-0012](DLL-Intro/img/DLL-介绍_page-0012.jpg)
+
+![DLL-介绍_page-0006](DLL-Intro/img/DLL-介绍_page-0006.jpg)
 
 
