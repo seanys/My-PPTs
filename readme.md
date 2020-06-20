@@ -70,14 +70,26 @@ This respository contains some of my PPT for reports. Most of these slides are d
 
 ![Culture-Shock_page-0011](Culture-Shock/img/Culture-Shock_page-0011.jpg)
 
+### Report for Operations Management
 
-### Introduction to DLL
+![pdf-运营管理-GoKey_page-0001](Report-OM/img/pdf-运营管理-GoKey_page-0001.jpg)
 
-![DLL-介绍_page-0001](DLL-Intro/img/DLL-介绍_page-0001.jpg)
+![pdf-运营管理-GoKey_page-0002](Report-OM/img/pdf-运营管理-GoKey_page-0002.jpg)
 
-![DLL-介绍_page-0010](DLL-Intro/img/DLL-介绍_page-0010.jpg)
+![pdf-运营管理-GoKey_page-0003](Report-OM/img/pdf-运营管理-GoKey_page-0003.jpg)
 
-![DLL-介绍_page-0012](DLL-Intro/img/DLL-介绍_page-0012.jpg)
+![pdf-运营管理-GoKey_page-0004](Report-OM/img/pdf-运营管理-GoKey_page-0004.jpg)
 
-![DLL-介绍_page-0006](DLL-Intro/img/DLL-介绍_page-0006.jpg)
+![pdf-运营管理-GoKey_page-0008](Report-OM/img/pdf-运营管理-GoKey_page-0008.jpg)
+
+![pdf-运营管理-GoKey_page-0011](Report-OM/img/pdf-运营管理-GoKey_page-0011.jpg)
+
+![pdf-运营管理-GoKey_page-0015](Report-OM/img/pdf-运营管理-GoKey_page-0015.jpg)
+
+![pdf-运营管理-GoKey_page-0024](Report-OM/img/pdf-运营管理-GoKey_page-0024.jpg)
+
+![pdf-运营管理-GoKey_page-0020](Report-OM/img/pdf-运营管理-GoKey_page-0020.jpg)
+
+![pdf-运营管理=GoKey_page-0027](Report-OM/img/pdf-运营管理=GoKey_page-0027.jpg)
+
 
