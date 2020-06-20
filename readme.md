@@ -2,6 +2,12 @@
 
 This respository contains some of my PPT for reports. Most of these slides are designed by myself or modified from some wondeful slides, the first page of some slides is template from islide.
 
+- [Endow Aircraft Maintenance a Brain](#endow-aircraft-maintenance-a-brain)
+- [Flexible Production Networks](#flexible-production-networks)
+- [Web Development](#web-development)
+- [Culture Shock](#culture-shock)
+- [Report for Operations Management](#report-for-operations-management)
+
 ## Example
 
 ### Endow Aircraft Maintenance a Brain
