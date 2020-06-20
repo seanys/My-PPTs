@@ -4,6 +4,34 @@ This respository contains some of my PPT for reports. Most of these slides are d
 
 ## Example
 
+### Endow Aircraft Maintenance a Brain
+
+![Aircraft-Maintenance's-Brain_page-0001](Endow-Aircraft-Maintenance-Brain/img/Aircraft-Maintenance's-Brain_page-0001.jpg)
+
+![Aircraft-Maintenance's-Brain_page-0002](Endow-Aircraft-Maintenance-Brain/img/Aircraft-Maintenance's-Brain_page-0002.jpg)
+
+![Aircraft-Maintenance's-Brain_page-0005](Endow-Aircraft-Maintenance-Brain/img/Aircraft-Maintenance's-Brain_page-0005.jpg)
+
+![Aircraft-Maintenance's-Brain_page-0006](Endow-Aircraft-Maintenance-Brain/img/Aircraft-Maintenance's-Brain_page-0006.jpg)
+
+![Aircraft-Maintenance's-Brain_page-0007](Endow-Aircraft-Maintenance-Brain/img/Aircraft-Maintenance's-Brain_page-0007.jpg)
+
+### Flexible Production Networks
+
+![Capacity-Allocation-in-Flexible-Production-Networks.pdf_page-0001](Flexible-Production-Networks/img/Capacity-Allocation-in-Flexible-Production-Networks.pdf_page-0001.jpg)
+
+![Capacity-Allocation-in-Flexible-Production-Networks.pdf_page-0002](Flexible-Production-Networks/img/Capacity-Allocation-in-Flexible-Production-Networks.pdf_page-0002.jpg)
+
+![Capacity-Allocation-in-Flexible-Production-Networks.pdf_page-0007](Flexible-Production-Networks/img/Capacity-Allocation-in-Flexible-Production-Networks.pdf_page-0007.jpg)
+
+![Capacity-Allocation-in-Flexible-Production-Networks.pdf_page-0014](Flexible-Production-Networks/img/Capacity-Allocation-in-Flexible-Production-Networks.pdf_page-0014.jpg)
+
+![Capacity-Allocation-in-Flexible-Production-Networks.pdf_page-0016](Flexible-Production-Networks/img/Capacity-Allocation-in-Flexible-Production-Networks.pdf_page-0016.jpg)
+
+![Capacity-Allocation-in-Flexible-Production-Networks.pdf_page-0019](Flexible-Production-Networks/img/Capacity-Allocation-in-Flexible-Production-Networks.pdf_page-0019.jpg)
+
+![Capacity-Allocation-in-Flexible-Production-Networks.pdf_page-0021](Flexible-Production-Networks/img/Capacity-Allocation-in-Flexible-Production-Networks.pdf_page-0021.jpg)
+
 ### Web Development
 
 ![环游梦-小学期报告_page-0049](Web-Development/img/环游梦-小学期报告_page-0049.jpg)
@@ -42,6 +70,7 @@ This respository contains some of my PPT for reports. Most of these slides are d
 
 ![Culture-Shock_page-0011](Culture-Shock/img/Culture-Shock_page-0011.jpg)
 
+
 ### Introduction to DLL
 
 ![DLL-介绍_page-0001](DLL-Intro/img/DLL-介绍_page-0001.jpg)
@@ -52,14 +81,3 @@ This respository contains some of my PPT for reports. Most of these slides are d
 
 ![DLL-介绍_page-0006](DLL-Intro/img/DLL-介绍_page-0006.jpg)
 
-### Endow Aircraft Maintenance a Brain
-
-![Aircraft-Maintenance's-Brain_page-0001](Endow-Aircraft-Maintenance-Brain/img/Aircraft-Maintenance's-Brain_page-0001.jpg)
-
-![Aircraft-Maintenance's-Brain_page-0002](Endow-Aircraft-Maintenance-Brain/img/Aircraft-Maintenance's-Brain_page-0002.jpg)
-
-![Aircraft-Maintenance's-Brain_page-0005](Endow-Aircraft-Maintenance-Brain/img/Aircraft-Maintenance's-Brain_page-0005.jpg)
-
-![Aircraft-Maintenance's-Brain_page-0006](Endow-Aircraft-Maintenance-Brain/img/Aircraft-Maintenance's-Brain_page-0006.jpg)
-
-![Aircraft-Maintenance's-Brain_page-0007](Endow-Aircraft-Maintenance-Brain/img/Aircraft-Maintenance's-Brain_page-0007.jpg)
