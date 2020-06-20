@@ -52,4 +52,14 @@ This respository contains some of my PPT for reports. Most of these slides are d
 
 ![DLL-介绍_page-0006](DLL-Intro/img/DLL-介绍_page-0006.jpg)
 
+### Endow Aircraft Maintenance a Brain
 
+![Aircraft-Maintenance's-Brain_page-0001](Endow-Aircraft-Maintenance-Brain/img/Aircraft-Maintenance's-Brain_page-0001.jpg)
+
+![Aircraft-Maintenance's-Brain_page-0002](Endow-Aircraft-Maintenance-Brain/img/Aircraft-Maintenance's-Brain_page-0002.jpg)
+
+![Aircraft-Maintenance's-Brain_page-0005](Endow-Aircraft-Maintenance-Brain/img/Aircraft-Maintenance's-Brain_page-0005.jpg)
+
+![Aircraft-Maintenance's-Brain_page-0006](Endow-Aircraft-Maintenance-Brain/img/Aircraft-Maintenance's-Brain_page-0006.jpg)
+
+![Aircraft-Maintenance's-Brain_page-0007](Endow-Aircraft-Maintenance-Brain/img/Aircraft-Maintenance's-Brain_page-0007.jpg)
